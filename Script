@@ -1,5 +1,5 @@
 --ЛИЦЕНЗИЯ 4
-hl = {} file = io.open("license.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2280"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
+hl = {} file = io.open("license_4.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2280"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
 
 else 
@@ -11,7 +11,7 @@ os.exit()
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------
  --ЛИЦЕНЗИЯ 5
- hl = {} file = io.open("license_2.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2289"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
+ hl = {} file = io.open("license_5.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2289"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
 
 else 
@@ -23,7 +23,7 @@ os.exit()
  
  ---------------------------------------------------------------------------------------------------------------
  --ЛИЦЕНЗИЯ 6
- hl = {} file = io.open("license_3.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2288"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
+ hl = {} file = io.open("license_6.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2288"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
 
 else 
