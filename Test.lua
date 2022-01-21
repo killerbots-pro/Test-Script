@@ -2,8 +2,8 @@
 tx.clearResults() 
 tx.clearList() 
 
---ЛИЦЕНЗИЯ 4
-hl = {} file = io.open("license_4.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"228"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
+--ЛИЦЕНЗИЯ 3
+hl = {} file = io.open("license_3.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"T0X1C_738DJNDJS8W9283UDNKZ9W9293848HFJDUD767DIDDJJD8S8EOEIWLQPSPZLKXMZNEJE928EUFHNSKSLWOW9298RJDNXNKAOWO29398R7RHDNSKAKQP10983URJSJSKALP1PSKDBCBRVHWIIC7DIKWK29E8DUSHWNK9G98SJWJEIRIDIE"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
 
 else 
@@ -14,8 +14,8 @@ os.exit()
  end
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------
- --ЛИЦЕНЗИЯ 5
- hl = {} file = io.open("license_5.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2289"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
+ --ЛИЦЕНЗИЯ 4
+ hl = {} file = io.open("license_4.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"T0X1C_73N38DJSOW93IRNDKS8EJ3NR8S9SIWN2J88XUXBSJE838U3NDKS9W001984URNDJOSOS0WIEUDHXBNSIS8D7DJENEI8E8DUZJJSIE8R7RUHDN"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
 
 else 
@@ -26,16 +26,7 @@ os.exit()
  end
  
  ---------------------------------------------------------------------------------------------------------------
- --ЛИЦЕНЗИЯ 6
- hl = {} file = io.open("license_6.io","r") for lol in file:lines() do table.insert(hl,lol) end l = {"2288"} if hl[1] == l[1] or hl[1] == l[2] or hl[1] == l[3] then 
 
-
-else 
-gg.alert("💎 6 License\n────────────────────────────\n🚫 LICENSE NOT FOUND 🚫") 
-gg.setVisible(true)
-print("─────────────────────────────────────\n💎 V$XV Hack - By T0X1C 💎\n─────────────────────────────────────\n💜 Subscribe My Channel\n────\n✅ Telegram - @T0X1CCF\n\n✅ YouTube - T0X1C\n─────────────────────────────────────\n💚 Subscribe My Friend Wuxin\n────\n✅ Telegram: @wuxin9999hack\n─────────────────────────────────────")
-os.exit()
- end
 
 local loadcode = false
 local loadcod = false
